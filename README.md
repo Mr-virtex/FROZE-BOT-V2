@@ -12,7 +12,7 @@ KALIAN MASIH PERLU API KEY UNTUK JALAN SEMUA FITUR NYA!!!
 ```bash
 > git clone https://github.com/Mr-virtex/FROZE-BOT-V2
 > bash install.sh
-
+```
 * BIG SPECIAL THAKS TOO
 * MHANKBARBAR
 * TOBZ
